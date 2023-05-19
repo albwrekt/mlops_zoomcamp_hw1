@@ -5,4 +5,4 @@ Question 2: 46.45
 Question 3: 98.27%
 Question 4: 515 columns
 Question 5: 6.99 RMSE
-Question 6: 14.61 RMSE
+Question 6: 7.79 RMSE
